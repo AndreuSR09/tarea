@@ -1,5 +1,2 @@
 # Conectores externos de una placa base
-![PLACA BASE](/img/Conectoresexternosdeunplacabase.png)
-
-
-
+![PLACA BASE](img/Conectoresexternosdeunaplacabase.png)
