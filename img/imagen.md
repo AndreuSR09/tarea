@@ -12,4 +12,4 @@
 
 **6. Conector RJ-45 >** Este puerto se usa para conectar la red mediante cable Ethernet
 
-**7. Conectores HB audio verde, azul y rosa >** Estos puertos se usan para conectar dispositivos de entrada y salida de audio (El rojo para dispositivos de salida de audio, el verde para dispositivos de entrada y el azul para otros dispositivos como mesas de mezcla, reproductores, etc.
+**7, 8 y 9. Conectores HB audio verde, azul y rosa >** Estos puertos se usan para conectar dispositivos de entrada y salida de audio (El rojo para dispositivos de salida de audio, el verde para dispositivos de entrada y el azul para otros dispositivos como mesas de mezcla, reproductores, etc.
