@@ -20,15 +20,20 @@
 
 **5. Puertos USB >** Estos puertos se usan para conectar dispositivos USB.
 
-
+![Puertos USB](/img/PuertosUSB.png)
 
 **6. Conector RJ-45 >** Este puerto se usa para conectar la red mediante cable Ethernet.
 
+![Conector RJ-45](/img/ConectorRJ45.png)
 
 **7. Conector HB audio azul >** Este puerto se usa para conectar fuentes de audio externas.
 
+![Conector HB azul](/img/PuertoHBazul.png)
 
 **8. Conector HB audio verde >** Este puerto se usa para conectar dispositivos de salida de audio.
 
+![Conector HB verde](/img/PuertoHBverde.png)
 
-**9. conector HB audio rosa >** Este puerto se usa para conectar dispositivos de entrada de audio. 
+**9. Conector HB audio rosa >** Este puerto se usa para conectar dispositivos de entrada de audio. 
+
+![Conector HB rosa](/img/PuertoHBrojo.png)
