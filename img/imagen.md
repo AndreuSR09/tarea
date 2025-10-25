@@ -2,14 +2,33 @@
 ![CONECTORES](/img/Conectoresexternosdeunaplacabase.png)
 
 ### Aquí están todos los conectores externos de la placa base de la imagen:
-**1 y 2. Conectores PS/2 >** Estos conectores son los que se usaban antes para el teclado y el ratón.
+**1. Conector PS/2 (morado) >** Este conector es el que se usaba antes para el teclado, pero actualmente usan un puerto USB.
+
+![PS-2 teclado](/img/ConectorPS2-2.png)
+
+**2. Conector PS/2 (verde) >** Este conector es el que se usaba antes para el ratón, pero ahora se usan puertos USB.
+
+![PS-2 ratón](/img/ConectorPS2-1.png)
 
 **3. Puerto paralelo >** Este se usaba para conectar otros puertos como impresoras y escáneres.
 
+![Puerto Paralelo](/img/PuertoParalelo.png)
+
 **4. Puerto VGA >** Este se usa actualmente aún para conectar monitores.
 
-**5. Puertos USB >** Estos puertos se usan para conectar dispositivos USB
+![Puerto VGA](/img/PuertoVGA.png)
 
-**6. Conector RJ-45 >** Este puerto se usa para conectar la red mediante cable Ethernet
+**5. Puertos USB >** Estos puertos se usan para conectar dispositivos USB.
 
-**7, 8 y 9. Conectores HB audio verde, azul y rosa >** Estos puertos se usan para conectar dispositivos de entrada y salida de audio (El rojo para dispositivos de salida de audio, el verde para dispositivos de entrada y el azul para otros dispositivos como mesas de mezcla, reproductores, etc.
+
+
+**6. Conector RJ-45 >** Este puerto se usa para conectar la red mediante cable Ethernet.
+
+
+**7. Conector HB audio azul >** Este puerto se usa para conectar fuentes de audio externas.
+
+
+**8. Conector HB audio verde >** Este puerto se usa para conectar dispositivos de salida de audio.
+
+
+**9. conector HB audio rosa >** Este puerto se usa para conectar dispositivos de entrada de audio. 
